@@ -1,4 +1,4 @@
-# Emotion_Detection_FER2013
+# Facial Emotion Detection
 Convolutional Neural Networks for Facial Expression Recognition on the FER2013 Dataset.
 
 
